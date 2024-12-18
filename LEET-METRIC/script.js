@@ -76,6 +76,6 @@ document.addEventListener("DOMContentLoaded", function(){
         if(validateusername(username)){
             fetchUserDetails(username);
         }
-    })
+    })//HGFGHV
 
 })
